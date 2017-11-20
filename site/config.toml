@@ -11,7 +11,7 @@ canonifyurls = true
 
 [params]
   description = "Find new mission. Learn new skill. Can he do it? SHURIKEN!"
-  cover = "images/ninja.jpg"
+  cover = "images/ninja.png"
   author = "Valère JEANTET"
   authorlocation = "Paris, France"
   authorwebsite = "http://vjeantet.fr"
