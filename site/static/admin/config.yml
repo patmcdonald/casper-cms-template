@@ -5,8 +5,8 @@ backend:
 
 publish_mode: editorial_workflow
 
-media_folder: "site/static/img/blog" # Folder where user uploaded files should go
-# public_folder: "site"
+media_folder: "site/static/images" # Folder where user uploaded files should go
+public_folder: "site"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
