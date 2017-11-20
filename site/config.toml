@@ -13,7 +13,7 @@ canonifyurls = true
   description = "Find new mission
                  Learn new skill
                  Can he do it?
-                  SHURIKEN!"
+                 SHURIKEN!"
   cover = "images/ninja.jpg"
   author = "Valère JEANTET"
   authorlocation = "Paris, France"
@@ -23,11 +23,11 @@ canonifyurls = true
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "patmcdonald"
-  twitterName = "thejackeen"
+  githubName = ""
+  twitterName = ""
   # facebookName = ""
   # linkedinName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   [params.social]
-    twitter = "https://twitter.com/thejackeen"
+    twitter = ""
