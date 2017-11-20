@@ -12,10 +12,10 @@ canonifyurls = true
 [params]
   description = "Find new mission. Learn new skill. Can he do it? SHURIKEN!"
   cover = "images/ninja.png"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
-  authorwebsite = "http://vjeantet.fr"
-  bio= "my bio"
+  author = "Pat McDonald"
+  authorlocation = "Louisburgh, Ireland"
+  authorwebsite = "https://patmcdonald.co"
+  bio= "Carer"
   logo = "images/shuriken.png"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
