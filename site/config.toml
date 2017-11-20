@@ -10,10 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "Find new mission
-                 Learn new skill
-                 Can he do it?
-                 SHURIKEN!"
+  description = "Find new mission. Learn new skill. Can he do it? SHURIKEN!"
   cover = "images/ninja.jpg"
   author = "Valère JEANTET"
   authorlocation = "Paris, France"
