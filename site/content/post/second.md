@@ -1,8 +1,16 @@
 ---
 date: 2016-09-09T10:24:16-04:00
-title: Second Post
+title: My favourite thing about providing technical support?
 ---
 
 
-Tristique integer nulla, velit orci elementum posuere odit urna amet, vel est amet etiam pharetra curabitur. Risus feugiat pharetra sit dui tempor sed, malesuada metus, ut sociis elementum, placerat dolor curabitur velit. Fermentum nulla, lacus volutpat, et neque suscipit vel nisl at, suspendisse sed consectetuer in. Donec ut tellus massa, ipsum placerat tincidunt, nam nunc amet sit aenean, eleifend porttitor non fermentum. Wisi ultricies ante nec ac dignissim, in neque suscipit eu blandit et, quis imperdiet. Nulla massa velit turpis condimentum, sed vel leo magna dolor at vivamus, lorem metus odio euismod. Libero non leo. Vestibulum lacus iaculis rutrum sagittis ac, a purus, egestas turpis nulla posuere ut sed lacinia, tellus suspendisse massa et nostra. Nascetur hac, ipsum cum, sem eros, tellus suspendisse non. Netus pretium. Auctor integer ut quis urna vestibulum quis, vivamus ligula dictum vel, et amet auctor donec interdum sagittis, fusce mollis sociosqu sem aptent nullam, eu enim hymenaeos et. Ridiculus fusce interdum, vitae volutpat pulvinar mauris netus.
+I love helping people really *get* something.
+
+That something can be a new concept to them, such as [Markdown](http://markdown-here.com/) instead of HTML or [JamStack](https://jamstack.org/) instead of a hosted solution like [WordPress.com](https://wordpress.com/) or [.org](https://wordpress.org/).
+
+I've always done this in my work and daily life. Helping people to learn a new skill, or maintain an already learned one. This can be showing my kids how to use a spelling app, a disabled elder in using a sensory stimulation app on their iPad, or a basic life skill like getting dressed.
+
+This is my life's work, and Technical Support challenges me. It pushes me to learn and master new technologies, so I can be confident in supporting others to make their best use of it. 
+
+Constant learning, and the sharing of that learning, is my path in life! 
 
