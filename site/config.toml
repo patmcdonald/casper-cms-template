@@ -10,7 +10,10 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "Domo Arigato, Mister Roboto"
+  description = "Find new mission
+                 Learn new skill
+                 Can he do it?
+                  SHURIKEN!"
   cover = "images/ninja.jpg"
   author = "Valère JEANTET"
   authorlocation = "Paris, France"
