@@ -1,5 +1,6 @@
 ---
 title: Site set up.
+ordering: 4
 ---
 To familiarise myself with static site generators, I first read through [Netlify's](https://www.netlify.com/) blog and tutorials.
 
