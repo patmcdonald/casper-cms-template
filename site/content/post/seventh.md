@@ -1,5 +1,6 @@
 ---
 title: Why is SSL/HTTPS important?
+ordering: 7
 ---
 
 This [doc](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https) sums it up great.
