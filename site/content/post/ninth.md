@@ -1,5 +1,6 @@
 ---
 title: My site won't build.
+ordering: 9
 ---
 
 Hi [customer_name],
