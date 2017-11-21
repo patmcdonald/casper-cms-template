@@ -1,5 +1,5 @@
 ---
-title: Site set up
+title: Site set up.
 ---
 To familiarise myself with static site generators, I first read through [Netlify's](https://www.netlify.com/) blog and tutorials.
 
