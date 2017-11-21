@@ -1,5 +1,6 @@
 ---
 title: Tech/Dev product docs
+ordering: 6
 ---
 
 As I'm presently learning Javascript, [React](https://reactjs.org/docs/hello-world.html) has piqued my curiosity.
