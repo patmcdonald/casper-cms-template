@@ -1,5 +1,6 @@
 ---
 title: 2 major challenges around DNS configuration.
+ordering: 8
 ---
 
 DNS configuration can be challenging for non-technical users.
