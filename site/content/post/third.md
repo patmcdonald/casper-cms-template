@@ -1,5 +1,6 @@
 ---
 title: What did you think of our service?.. 
+ordering: 3
 ---
 
 I first came across [Netlify](https://www.netlify.com/), via your initial job posting 6 months ago.
