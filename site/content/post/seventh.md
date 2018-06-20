@@ -1,8 +1,12 @@
 ---
-title: Why is SSL/HTTPS important?
+title: 2 major challenges around DNS configuration
 ordering: 7
 ---
+DNS configuration can be challenging for non-technical users.
 
-This [doc](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https) sums it up great.
+Setting up a domain can be a little intimidating initially. Concepts like DNS [caching](https://www.lifewire.com/what-is-a-dns-cache-817514) and [propogation](https://www.name.com/support/articles/115012317827-Domain-Propagation) are frustrating for someone who just wants their spanky new webapp to work. Kudos to Netlify for integrating secure [domain purchase](https://www.netlify.com/blog/2018/06/19/buy-and-secure-a-custom-domain-through-netlify/) and setup!
 
-SSL/HTTPS is important because it's now a de-facto standard for modern web apps, it ensures user privacy and security and it has a positive effect on site [SEO](https://moz.com/blog/half-page-one-google-results-https) rankings.
+When I think back to first time I set up a DNS record in cPanel, It was the naming of Address Record Types that confused me initially. The first time a less technical user tries to make sense of A, AAAA, CNAME, MX can be daunting to say the least! Factor in subdomains, URL Redirect, Wildcard records and SSL - thats a lot of jargon for a new user.
+
+The right UI, supported by clear documentation can take a user through the steps needed to configure DNS.
+If the UI isn't designed well, good support guides will help. But they won't be a panacea for an intimidating setup UX.
