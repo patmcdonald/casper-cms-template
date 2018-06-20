@@ -1,6 +1,6 @@
 ---
 title: Hey Chris!
-ordering: 1
+ordering: 01
 ---
 ### Here's my selection from your [support-tasks gist](https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6)
 
