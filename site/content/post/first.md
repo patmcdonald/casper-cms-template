@@ -11,7 +11,7 @@ My 5 favourite activities from this list are:
 
 2. Respond to 60+ support requests via email or chat every day
 
-3. Engage multiple users at once via chat to answer their questions and troubleshoot problems
+3. Analyze thousands of support tickets to spot trends to improve our product
 
 4. Debug a customer's build using a programming language and framework that you've never seen before
 
@@ -20,7 +20,7 @@ My 5 favourite activities from this list are:
 
 My 5 least favourite activities from this list are:
 
-1. Analyze thousands of support tickets to spot trends to improve our product
+1. Engage multiple users at once via chat to answer their questions and troubleshoot problems
 
 2. Respond to Netlify fans on Twitter
 
