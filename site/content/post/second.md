@@ -1,16 +1,11 @@
 ---
-title: My favourite thing about providing technical support?
+title: My favourite thing about providing technical support
 ordering: 2
 ---
-
-
 I love helping people really *get* something.
 
-That something can be a new concept to them, such as [Markdown](http://markdown-here.com/) instead of HTML or [JamStack](https://jamstack.org/) instead of a hosted solution like [WordPress.com](https://wordpress.com/) or [.org](https://wordpress.org/).
+That something can be a new concept to them, such as [Markdown](https://dillinger.io/) instead of HTML or [JamStack](https://jamstack.org/) instead of a hosted solution like [WordPress.com](https://wordpress.com/) or [.org](https://wordpress.org/).
 
 I've always done this in my work and daily life. Helping people to learn a new skill, or maintain an already learned one. This can be showing my kids how to use a spelling app, a disabled elder in using a sensory stimulation app on their iPad, or a basic life skill like getting dressed.
 
-This is my life's work, and Technical Support challenges me. It pushes me to learn and master new technologies, so I can be confident in supporting others to make their best use of it. 
-
-Constant learning, and the sharing of that learning, is my path in life! 
-
+This is my life's work, it's what I'm [wired to do](https://www.16personalities.com/profiles/58b08c088d84e). Technical Support challenges me and satisfies my curiosity, and drive to fix stuff for people. It pushes me to learn and master new technologies, so I can be confident in supporting others to make their best use of it.
