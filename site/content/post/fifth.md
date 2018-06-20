@@ -1,10 +1,8 @@
 ---
-title: Suggestions to improve this test?
+title: Tech/Dev product docs
+
 ordering: 5
 ---
-Chris, I got nothing! It's challenging; as it should be.
-But, what I've really liked is learning and implementing cutting edge web technology.
-The learning curve is steep, but worth the effort for me. 
+When I commenced my [Data Analytics](https://www.gmit.ie/computing/higher-diploma-science-computing-data-analytics-ict-skills) and [Front-End](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001) development courses in January and February respectively, the editor of choice was shifting to  [VSCode](https://code.visualstudio.com/).
 
-I'm thinking of how I can make things easier for new users to get a site up and running. 
-[Gutenberg](https://github.com/WordPress/gutenberg) editor in a new CMS maybe?
+I'd been using [Sublime Text](https://www.sublimetext.com/) at that point, but as my [Python](https://docs.python.org/3.5/index.html) course tutorials utilised feature of VSCode: I took the leap. I found the VSCode [docs](https://code.visualstudio.com/docs/getstarted/tips-and-tricks) well laid out, and I got up to speed on my new editor without breaking flow. A nice feature that impressed me was the handy Python [tutorial](https://code.visualstudio.com/docs/python/python-tutorial) and integrated terminal [docs](https://code.visualstudio.com/docs/editor/integrated-terminal).
