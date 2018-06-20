@@ -11,7 +11,7 @@ canonifyurls = true
 
 [params]
   description = "Let go old domain, very nice fixie. My knees hurt!"
-  cover = "images/SquidBikesTracklocross.jpg"
+  cover = "images/SquidBikesTracklocross.png"
   author = "Pat McDonald"
   authorlocation = "Louisburgh, Ireland"
   authorwebsite = "https://patmcdonald.co"
