@@ -1,11 +1,9 @@
 ---
-title: Tech/Dev product docs
+title:  Why SSL/HTTPS matters
 ordering: 6
 ---
+This [doc](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https) sums it up nicely.
 
-As I'm presently learning Javascript, [React](https://reactjs.org/docs/hello-world.html) has piqued my curiosity.
+Also, [PWA's](https://developers.google.com/web/progressive-web-apps/) and other emerging web technologies all require HTTPS, as does Google Chrome.
 
-I think the Docs are very well done. The UI is nice and easy to navigate, and there's a [Codepen](https://codepen.io/pen?&editors=0010) example that gets you started pretty quickly.
-The more advanced guides are in their own menu, this keeps me from going down the rabbit hole too early:]
-
-Looking at these Docs and the [tutorial](https://reactjs.org/tutorial/tutorial.html), Its easy to dive in. Learning React is on my list, after my current Javascript course.
+SSL/HTTPS is important because it's now a de-facto standard for modern web apps, it ensures user privacy and security and it has a positive effect on site [SEO](https://moz.com/blog/half-page-one-google-results-https) rankings.
