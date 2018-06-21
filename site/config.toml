@@ -1,4 +1,4 @@
-baseurl = "https://yarn.ie"
+baseurl = "/"
 languageCode = "en-us"
 title = "Sweet Bike"
 theme = "hugo-theme-casper"
